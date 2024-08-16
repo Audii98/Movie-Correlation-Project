@@ -25,7 +25,7 @@ Improved data accuracy by cleaning and preprocessing the dataset, reducing incon
 Generated over 20 visualizations to effectively convey the analysis results, enhancing the clarity and accessibility of the insights.
 
 ### How to Run the Project: 
-1. Clone this repository to your local machine: git clone [https://github.com/Audii98/Movie-Correlation-Project.git](https://github.com/Audii98/Portfolio-Project)
+1. Clone this repository to your local machine: git clone https://github.com/Audii98/Movie-Correlation-Project
 2. Navigate to the project directory: cd Movie-Correlation-Project
 3. Install the necessary Python packages: pip install -r requirements.txt
 4. Open the Jupyter Notebook to explore the analysis: jupyter notebook Movie_Correlation_Project.ipynb
